@@ -20,6 +20,7 @@
 
 ```
 class Point:
- # The methods are defined in the body one after the other.
+ ### The methods are defined in the body one after the other.
+ ### A common programming practice is start the class name with uppercase.
 
 ```
