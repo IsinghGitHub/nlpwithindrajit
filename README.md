@@ -18,7 +18,8 @@
 
 - We can begin by defining the frameworks for the new class
 
-'''
+```
 class Point:
  # The methods are defined in the body one after the other.
-'''
+
+```
