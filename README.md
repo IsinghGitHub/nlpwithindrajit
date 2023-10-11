@@ -1,4 +1,4 @@
-# Python classes
+# Tutorial on Python classes
 
 ## Python supports both procedural and object-oriented programming paradigms.
 
@@ -14,3 +14,11 @@
 
 - Objects are created or instantiated from classes , and each object is known as instance of the class from which it was created.
 
+### So how do we begin ?
+
+- We can begin by defining the frameworks for the new class
+
+'''
+class Point:
+ # The methods are defined in the body one after the other.
+'''
